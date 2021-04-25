@@ -16,7 +16,7 @@ I have completed my MSc study 🎓 of Computational Statistics and Machine Learn
 
 Like challenges and solving problems, and hope to achieve something significant; endlessly curious and seeking to extend my knowledge; can work with others in a team, but equally happy to concentrate on problems on my own.
 
-<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
+<img align='right' src='https://github.com/Wesley12138/Wesley12138/raw/main/assets/giphy.gif' width='200"'>
 
 ### About me
 
