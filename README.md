@@ -20,7 +20,7 @@ Like challenges and solving problems, and hope to achieve something significant;
 
 ### About me
 
-- 🔭 I’m currently working on NLP related work
+- 👀 I’m currently looking for a fully funded phd position related to NLP
 - 📫 How to reach me: liwanshui12138@gmail.com
 - 📲 Love flash/install new custom ROM on Android: Magisk, Xposed
 
