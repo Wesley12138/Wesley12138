@@ -24,3 +24,5 @@ Like challenges and solving problems, and hope to achieve something significant;
 - 📫 How to reach me: liwanshui12138@gmail.com
 - 📲 Love flash/install new custom ROM on Android: Magisk, Xposed
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
