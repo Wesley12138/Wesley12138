@@ -27,9 +27,10 @@ Like challenges and solving problems, and hope to achieve something significant;
 ### Coding status last week ⌨️
 
 <!--START_SECTION:waka-->
+
 ```text
-Python           15 hrs 24 mins  ██████████▓░░░░░░░░░░░░░░   42.24 %
-Java             6 hrs 53 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.88 %
-Other            5 hrs 9 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.16 %
+Python           15 hrs 27 mins  █████████▓░░░░░░░░░░░░░░░   39.14 %
+Other            7 hrs 54 mins   █████░░░░░░░░░░░░░░░░░░░░   20.00 %
 ```
+
 <!--END_SECTION:waka-->
