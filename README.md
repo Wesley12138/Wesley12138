@@ -29,7 +29,7 @@ Like challenges and solving problems, and hope to achieve something significant;
 <!--START_SECTION:waka-->
 
 ```text
-Other           32 hrs 48 mins  ██████████████████░░░░░░░   71.54 %
+Other           28 hrs 31 mins  █████████████████▒░░░░░░░   69.49 %
 ```
 
 <!--END_SECTION:waka-->
