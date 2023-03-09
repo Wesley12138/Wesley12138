@@ -29,12 +29,12 @@ Like challenges and solving problems, and hope to achieve something significant;
 <!--START_SECTION:waka-->
 
 ```text
-Python     13 hrs 3 mins   ██████████████████▒░░░░░░   73.82 %
-Text       3 hrs 38 mins   █████░░░░░░░░░░░░░░░░░░░░   20.57 %
-JSON       28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
-Java       24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
-CSV file   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Python           14 hrs 53 mins  ███████████████████▓░░░░░   79.31 %
+Text             2 hrs 13 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.83 %
+JSON             29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
+GitIgnore file   21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
+Java             20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
+CSV file         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
 ```
 
 <!--END_SECTION:waka-->
