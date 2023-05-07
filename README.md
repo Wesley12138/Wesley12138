@@ -25,9 +25,4 @@ Like challenges and solving problems, and hope to achieve something significant;
 ### Coding status last week ⌨️
 
 <!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
