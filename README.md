@@ -10,7 +10,7 @@
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-3f51b5?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/wanshui.li/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d32f2f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mail@jayraj.co.in)](mailto:liwanshui12138@gmail.com)
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Wesley12138.Wesley12138&style=flat-square&color=0088cc)
+### Glad to see you here! &nbsp; ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Wesley12138.Wesley12138)
 
 I have completed my MSc study 🎓 of Computational Statistics and Machine Learning at University College London 🏛. The past years’ training has equipped me with a solid foundation in machine learning, and further stimulate my inner interest 💡 in the research of Natural Language Processing ✨.
 
