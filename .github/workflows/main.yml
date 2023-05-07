@@ -17,3 +17,6 @@ jobs:
       - uses: Wesley12138/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          # 时间线
+          SHOW_LOC_CHART: False
