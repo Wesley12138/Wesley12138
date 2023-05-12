@@ -27,10 +27,11 @@ Like challenges and solving problems, and hope to achieve something significant;
 <!--START_SECTION:waka-->
 
 ```text
-Other      21 hrs 57 mins  ███████████████████████░░   91.34 %
-Python     1 hr 16 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 %
-Markdown   31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
-Text       16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
+Other            27 hrs 51 mins  ██████████████████████▓░░   91.08 %
+Python           1 hr 39 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.40 %
+Markdown         40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
+Text             16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
+Java             5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
 ```
 
 <!--END_SECTION:waka-->
