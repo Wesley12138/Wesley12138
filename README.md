@@ -27,8 +27,8 @@ Like challenges and solving problems, and hope to achieve something significant;
 <!--START_SECTION:waka-->
 
 ```txt
-Other    8 hrs 10 mins   ███████████████████░░░░░░   76.00 %
-Python   2 hrs 34 mins   ██████░░░░░░░░░░░░░░░░░░░   24.00 %
+Other    7 hrs 40 mins   ██████████████████▓░░░░░░   74.81 %
+Python   2 hrs 34 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.19 %
 ```
 
 <!--END_SECTION:waka-->
