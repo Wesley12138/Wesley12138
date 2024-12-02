@@ -27,7 +27,7 @@ Like challenges and solving problems, and hope to achieve something significant;
 <!--START_SECTION:waka-->
 
 ```txt
-Other              64 hrs 5 mins   █████████████████████████   99.80 %
+Other              64 hrs 18 mins  █████████████████████████   99.80 %
 Jupyter Notebook   7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 ```
 
