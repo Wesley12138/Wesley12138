@@ -27,8 +27,8 @@ Like challenges and solving problems, and hope to achieve something significant;
 <!--START_SECTION:waka-->
 
 ```txt
-Other      48 hrs 48 mins  ████████████████████████▓   99.06 %
-Markdown   27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
+Other      48 hrs 20 mins  ████████████████████████▒   97.95 %
+Markdown   1 hr            ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
 ```
 
 <!--END_SECTION:waka-->
